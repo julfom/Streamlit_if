@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/sonalisingh1411/mall-customer-dataset?select=Mall_Customers.xlsx
